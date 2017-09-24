@@ -9,6 +9,7 @@ public class Pirata {
 		this.estado = new Saludable();
 		this.puntos = 0;
 	}
+//Original
 /*	
 	public void atacarA(Pirata enemigo) {
 		this.puntos = this.ataque - enemigo.defensa;
